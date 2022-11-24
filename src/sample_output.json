@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 35,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "DW (English)"
+            },
+            "author": "Deutsche Welle",
+            "title": "Russia-Ukraine updates: Russian 'war crimes' reported in Kherson - DW (English)",
+            "description": "Ukraine's Zelenskyy says investigators have uncovered over 400 \"war crimes\" committed by Russian forces in the region. Meanwhile, Russian strikes hit multiple regions in eastern Ukraine. DW rounds up the latest.",
+            "url": "https://www.dw.com/en/russia-ukraine-updates-russian-war-crimes-reported-in-kherson/a-63742295",
+            "urlToImage": "https://static.dw.com/image/63734332_6.jpg",
+            "publishedAt": "2022-11-14T07:13:42Z",
+            "content": "Ukrainian President Volodymyr Zelenskyy said in his regular nightly address on Sunday that investigators working in the southern Kherson region have uncovered more than 400 \"war crimes\" committed by … [+6633 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Chris Boyette",
+            "title": "4 University of Idaho students found dead in home outside campus in what police are calling a homicide - CNN",
+            "description": "A homicide investigation has been opened by police after four people were found dead at a home just outside the University of Idaho's campus in Moscow on Sunday, according to authorities.",
+            "url": "https://www.cnn.com/2022/11/14/us/university-idaho-moscow-homicide-investigation/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221114010430-university-of-idaho-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-11-14T07:11:00Z",
+            "content": "A homicide investigation has been opened by police after four people were found dead at a home just outside the University of Idahos campus in Moscow on Sunday, according to authorities.\r\nOfficers in… [+1423 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "U.S. House control hinges on tight races after Democrats take Senate - Reuters",
+            "description": "Control of the U.S. House of Representatives hinged on Monday on several tight races that could secure a majority for Republicans following midterm elections that saw President Joe Biden's Democrats beat expectations and retain the Senate.",
+            "url": "https://www.reuters.com/world/us/us-house-control-hinges-tight-races-after-democrats-take-senate-2022-11-14/",
+            "urlToImage": "https://www.reuters.com/resizer/cMv5k-Jg1qhHyIUXWGJSLiA63NQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/24ONRMLO4BMKBMCMPZMKPI3QW4.jpg",
+            "publishedAt": "2022-11-14T06:34:00Z",
+            "content": "WASHINGTON, Nov 14 (Reuters) - Control of the U.S. House of Representatives hinged on Monday on several tight races that could secure a majority for Republicans following midterm elections that saw P… [+3738 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "WION Business News | Elon Musk removes Twitter contract workers without notice | Twitter | Top News - WION",
+            "description": "After firing thousands of Twitter employees in the first week of taking over platform. Reports suggest, the employees were removed without any prior notice. ...",
+            "url": "https://www.youtube.com/watch?v=l9OnD28ZMnw",
+            "urlToImage": "https://i.ytimg.com/vi/l9OnD28ZMnw/maxresdefault.jpg",
+            "publishedAt": "2022-11-14T06:22:27Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bitcoin.com"
+            },
+            "author": "Kevin Helms",
+            "title": "Binance CEO Likens FTX Fiasco to 2008 Financial Crisis — Warns of 'Cascading Effects' – Economics Bitcoin News - Bitcoin News",
+            "description": "Binance CEO Changpeng Zhao compares the FTX collapse to the 2008 financial crisis, warning of \"cascading effects.\"",
+            "url": "https://news.bitcoin.com/binance-ceo-likens-ftx-fiasco-to-2008-financial-crisis-warns-of-cascading-effects/",
+            "urlToImage": "https://static.news.bitcoin.com/wp-content/uploads/2022/11/cz-financial-crisis.jpg",
+            "publishedAt": "2022-11-14T05:04:03Z",
+            "content": "Binance CEO Changpeng Zhao has compared the FTX collapse to the 2008 financial crisis. Warning of “cascading effects,” he stressed: “A lot of consumer confidence is shaken, and I think basically it s… [+3127 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Susannah Cullinane, Tina Burnside",
+            "title": "University of Virginia campus advised to shelter in place after reported shooting, with suspect still at large - CNN",
+            "description": "The University of Virginia is on lockdown following reports of a shooting, according to tweets from the University of Virginia Police Department.",
+            "url": "https://www.cnn.com/2022/11/13/us/university-of-virginia-shooting/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221113234526-university-of-virginia-shooting-111322.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-11-14T04:49:00Z",
+            "content": "The University of Virginia is on lockdown following reports of a shooting, according to tweets from the University of Virginia Police Department. \r\nThe shooting was reported on Culbreth Road, police … [+268 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Niners Nation"
+            },
+            "author": "Kyle Posey",
+            "title": "49ers beat Chargers in Week 10 Niners comeback victory on SNF - Niners Nation",
+            "description": "The 49ers defense did its job and the San Francisco offense came through late to LA Chargers",
+            "url": "https://www.ninersnation.com/2022/11/13/23457123/49ers-beat-chargers-week-10-victory",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/qBHK23vRcWb4Hb0P9IA8fSvIiTk=/0x896:4839x3430/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24194441/1244439551.jpg",
+            "publishedAt": "2022-11-14T04:29:50Z",
+            "content": "The Chargers wasted no time as they marched 75 yards in seven plays on the game's opening drive. Justin Herbert completed passes for 14, 17, and 32 yards en route to a touchdown. Unfortunately, it wa… [+4614 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PEOPLE"
+            },
+            "author": "Emily Strohm",
+            "title": "Sister Wives ' Christine Brown Wouldn't Wish Her Relationship with Kody 'on Any Friend of Mine' - Yahoo Entertainment",
+            "description": "On Sunday's episode TLC's Sister Wives, Kody and the women had a brutally honest discussion about their broken family that Christine called \"one of the...",
+            "url": "https://people.com/tv/sister-wives-christine-brown-wouldnt-wish-her-relationship-with-kody-on-any-friend/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/i913O9IthSeirNDqDFJOpQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/people_218/504b32ffc212b4b6898febc99ea1134e",
+            "publishedAt": "2022-11-14T04:12:29Z",
+            "content": "Sister Wives: Christine and Kody Brown Discuss Best Way to Tell Other Wives of Their Split\r\nTLC (2) \r\nEmotions are running high in the Brown family.\r\nIn this week's episode of Sister Wives, Kody, Chr… [+3581 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "DW (English)"
+            },
+            "author": "Nik Martin",
+            "title": "Germany complains to Egypt over COP27 snooping: report - DW (English)",
+            "description": "The German embassy in Cairo accused Egyptian security officials of monitoring and filming events at the German pavilion in the climate conference venue. Berlin has used its presence to highlight human rights issues.",
+            "url": "https://www.dw.com/en/germany-complains-to-egypt-over-cop27-snooping-report/a-63743183",
+            "urlToImage": "https://static.dw.com/image/63743322_6.jpg",
+            "publishedAt": "2022-11-14T03:58:04Z",
+            "content": "Germany has lodged a complaint with the Egyptian government over unwanted monitoring by security officials at the COP27 World Climate Conference, the German Press Agency (DPA) reported Sunday.\r\nEgypt… [+3381 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Matt Grobar",
+            "title": "‘Stranger Things’ Season 5 Teased By Creators Matt & Ross Duffer, Director-EP Shawn Levy: “A Culmination” Of All That’s Come Before - Deadline",
+            "description": "Stranger Things creators Matt and Ross Duffer have expanded on what fans can expect from the fifth and final season of their ’80s-set Netflix phenomenon. The twin filmmakers were asked, during a Sunday night panel at the streamer’s Tudum Theater in Los Angele…",
+            "url": "https://deadline.com/2022/11/stranger-things-season-5-teased-by-creators-matt-ross-duffer-1235171229/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2022/11/GettyImages-1402229125-e1668373968101.jpg?w=1024",
+            "publishedAt": "2022-11-14T03:52:00Z",
+            "content": "Stranger Things creators Matt and Ross Duffer have expanded on what fans can expect from the fifth and final season of their ’80s-set Netflix phenomenon.\r\nThe twin filmmakers were asked, during a Sun… [+4032 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "James Hibberd",
+            "title": "‘SNL’ Slammed for Dave Chappelle Monologue: “Popularizing Antisemitism” - Hollywood Reporter",
+            "description": "Logo text Dave Chappelle was on TV again. This time, the divisive comic spent the bulk of an extended monologue on Saturday Night Live giving his thoughts on Kanye “Ye” West’s rants about the Jewish community. On Sunday, the Anti-Defamation League CEO Jonatha…",
+            "url": "https://www.hollywoodreporter.com/tv/tv-news/snl-dave-chappelle-controversy-antisemitism-1235261137/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2022/11/NUP_199790_00003.jpg?w=1024",
+            "publishedAt": "2022-11-14T03:16:18Z",
+            "content": "Dave Chappelle was on TV again.\r\nThis time, the divisive comic spent the bulk of an extended monologue on Saturday Night Live giving his thoughts on Kanye “Ye” West’s rants about the Jewish community… [+3387 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Joel Embiid NEW CAREER-HIGH! 59 PTS & 7 BLK sets multiple NBA records‼ - ESPN",
+            "description": "Joel Embiid is the first 76ers player to score more than 50 points in a game since Allen Iverson in 2005. and the the 3rd player in 76ers history with a 55-p...",
+            "url": "https://www.youtube.com/watch?v=W2TLhRsoQeY",
+            "urlToImage": "https://i.ytimg.com/vi/W2TLhRsoQeY/maxresdefault.jpg",
+            "publishedAt": "2022-11-14T03:13:48Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Turkish police arrest suspect in Istanbul bombing - Al Jazeera English",
+            "description": "Interior minister says police have arrested ‘the person who left the bomb’ that killed eight people in central Istanbul.",
+            "url": "https://www.aljazeera.com/news/2022/11/14/turkish-police-arrest-suspect-in-istiklal-bombing",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/11/AP22317684102856.jpg?resize=1920%2C1440",
+            "publishedAt": "2022-11-14T03:06:17Z",
+            "content": "Turkish police have arrested a suspect for the bombing in central Istanbul that left at least eight people dead and 81 others wounded, according to an official.\r\nInterior Minister Suleyman Soylu told… [+3282 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AZCentral"
+            },
+            "author": "Meg Kinnard, The Arizona Republic",
+            "title": "Associated Press hasn't called the Arizona governor's race. Here's why - The Arizona Republic",
+            "description": "As of Sunday, there were still about 171,000 votes left to count in Arizona, too many votes left to count to conclude Katie Hobbs' lead is insurmountable. Kari Lake needs about 57% of those to overtake Hobbs.",
+            "url": "https://www.azcentral.com/story/news/politics/elections/2022/11/13/why-ap-has-not-called-arizona-governors-race/10694946002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/11/09/PPHX/42a4d34d-3c44-464e-810d-a37ba5aac9b8-Collage_Maker-09-Nov-2022-12.53-AM.jpg?auto=webp&crop=1439,809,x0,y29&format=pjpg&width=1200",
+            "publishedAt": "2022-11-14T02:48:39Z",
+            "content": "The Associated Press has not yet called the open governor's race in Arizona between Katie Hobbs, the Democratic secretary of state, and Republican Kari Lake, a former TV broadcaster, because there ar… [+4831 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "NFL Hall of Fame coach Bill Cowher calls Colts' Jeff Saturday hiring 'a disgrace to the coaching profession' - CBS Sports",
+            "description": "Cowher is the latest to share strong words on Saturday being named the Colts interim head coach",
+            "url": "https://www.cbssports.com/nfl/news/nfl-hall-of-fame-coach-bill-cowher-calls-colts-jeff-saturday-hiring-a-disgrace-to-the-coaching-profession/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/11/13/b55c624b-d660-46af-ba49-c620cd94593f/thumbnail/1200x675/ad0021c03762ae056223196141d3eeec/cowher-g.jpg",
+            "publishedAt": "2022-11-14T02:02:00Z",
+            "content": "This past week, the Indianapolis Colts fired Frank Reich and hired Jeff Saturday as the interim head coach. The decision was shocking to most, considering Saturday has no NFL, or even college, head-c… [+2306 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WFAA.com"
+            },
+            "author": "Briahn Hawkins",
+            "title": "What we know about the victims of the Dallas air show plane collision - WFAA.com",
+            "description": "Six people were confirmed dead after two planes collided during the Wings Over Dallas show Saturday. This article will be updated as we learn about each victim.",
+            "url": "https://www.wfaa.com/article/news/local/wings-over-dallas-texas-tx-air-show-airshow-deadly-plane-crash-collision-victims-names/287-9a8810b6-2d71-4492-8391-b6e200298147",
+            "urlToImage": "https://media.wfaa.com/assets/WFAA/images/d296fbf0-db94-4938-9519-3784fecf495b/d296fbf0-db94-4938-9519-3784fecf495b_1140x641.jpg",
+            "publishedAt": "2022-11-14T01:52:51Z",
+            "content": "DALLAS People across the country are mourning the loss of six people that died after a mid-air plane crash in Dallas. Two historic military planes crashed into each other during an air show Saturday … [+2972 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "FOXBusiness",
+            "title": "Taiwan talks trade with U.S. & Britain as China tensions loom over Biden-Xi meeting - Fox Business",
+            "description": "Taiwan's trade talks with the U.S. and Britain sparked anger in the Chinese government.",
+            "url": "https://www.foxbusiness.com/politics/taiwan-talks-trade-us-britain-china-tensions-loom-over-biden-xi-meeting",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/11/0/0/bidenxishakinghands.jpg?ve=1&tl=1",
+            "publishedAt": "2022-11-14T01:38:18Z",
+            "content": "Taiwan is pushing to secure trade deals with the U.S. and Britain despite China’s opposition to efforts to strengthen economic ties between Taiwan and other countries. The discussions come amid heigh… [+4047 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Democrats retain control of Senate with victory in Nevada - CBS News",
+            "description": "Sen. Catherine Cortez Masto's victory Saturday evening clinched Senate control for the Democrats four days after Election Day.",
+            "url": "https://www.cbsnews.com/news/2022-election-democrats-senate-nevada-catherine-cortez-masto-adam-laxalt/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/11/13/bed75c0a-cf64-4055-905b-8d53e1d50116/thumbnail/1200x630/f4e3f6782a83405f19425da10fcc6813/gettyimages-1428118684.jpg",
+            "publishedAt": "2022-11-14T00:46:00Z",
+            "content": "Democrats will continue to control the Senate following the 2022 midterm elections, after Nevada Sen. Catherine Cortez Masto on Saturday was projected by CBS News to win a tight reelection race again… [+6190 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Phinsider"
+            },
+            "author": "Kevin Nogle",
+            "title": "Browns vs. Dolphins: Miami pastes Cleveland to climb to top of AFC East - The Phinsider",
+            "description": "The Miami Dolphins put together an all-around dominating performance to beat the Cleveland Browns in Week 10.",
+            "url": "https://www.thephinsider.com/2022/11/13/23456334/miami-dolphins-cleveland-browns-final-score-reactions-recap-tyreek-hill-tua-tagovailoa",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/9JHWwqrsJwQ_ltKKsKjZAcEXZjM=/0x0:3600x1885/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24193320/1441242181.jpg",
+            "publishedAt": "2022-11-14T00:30:45Z",
+            "content": "The Miami Dolphins entered Week 10 with a three-game winning streak and a 6-3 record. After dismantling the Cleveland Browns throughout the day on Sunday, they leave Week 10 with a four-game winning … [+16565 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Asia shares pause as Fed warns against exuberance - Reuters",
+            "description": "Asian share markets were taking a breather on Monday after last week's sweeping rally as a top U.S. central banker warned investors against getting carried away over one inflation number, nudging up bond yields and the dollar.",
+            "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-pix-graphics-2022-11-14/",
+            "urlToImage": "https://www.reuters.com/resizer/wp5tTNuzdbMa94YLnhqNaV21ncs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ICXAGXVFG5OA5FESDDNOUTVO7Y.jpg",
+            "publishedAt": "2022-11-14T00:27:00Z",
+            "content": "SYDNEY, Nov 14 (Reuters) - Asian share markets were taking a breather on Monday after last week's sweeping rally as a top U.S. central banker warned investors against getting carried away over one in… [+3865 chars]"
+        }
+    ]
+}
