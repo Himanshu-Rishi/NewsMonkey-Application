@@ -5,37 +5,37 @@ import PropTypes from "prop-types";
 import InfiniteScroll from "react-infinite-scroll-component";
 
 const News = (props) => {
-  const [articles, setarticles] = useState([])
-  const [loading, setloading] = useState(true)
-  const [page, setpage] = useState(1)
-  const [totalResults, settotalResults] = useState(0)
-
-  const updateNews = async () => {
+  const [loading, setLoading] = useState(true)
+  const [articles, setArticles] = useState([])
+  const [page, setPage] = useState(1)
+  const [totalResults, setTotalResults] = useState(0)
+  
+    const updateNews = async () => {
     const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apikey}&page=${page}&pageSize=${props.pagesize}`;
-    setloading(true)
+    setLoading(true)
     let data = await fetch(url);
-    let fetched_data = await data.json();
-    setarticles(fetched_data.articles)
-    settotalResults(fetched_data.totalResults)
-    setloading(false)
-  };
+    let parsedData = await data.json()
+    setArticles(parsedData.articles)
+    setTotalResults(parsedData.totalResults)
+    setLoading(false)
+  }
 
   useEffect(() => {
     updateNews();
+    // eslint-disable-next-line
   }, [])
-  
+
   const fetchMoreData = async () => {
-    setpage(page+1)
-    const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apikey}&page=${page + 1}&pageSize=${props.pageSize}`;
+    const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apikey}&page=${page+1}&pageSize=${props.pagesize}`;
+    setPage(page + 1)
     let data = await fetch(url);
     let parsedData = await data.json();
-      setarticles(articles.concat(parsedData.articles))
-      settotalResults(parsedData.totalResults)
+    setArticles(articles.concat(parsedData.articles))
+    setTotalResults(parsedData.totalResults)
   };
-
   return (
     <>
-      <h1 className="text-center" style={{ margin: "35px 0px" }}>
+      <h1 className="text-center" style={{ margin: "35px 0px", marginTop: "90px"}}>
         NewsMonkey - Top Headlines
       </h1>
       {loading && <Spinner />}
@@ -47,9 +47,9 @@ const News = (props) => {
       >
         <div className="container">
           <div className="row">
-            {articles.map((element, index) => {
+            {articles.map((element) => {
               return (
-                <div className="col-md-4" key={index}>
+                <div className="col-md-4" key={element.url}>
                   <NewsItem
                     title={element.title ? element.title.slice(0, 45) : ""}
                     description={
@@ -68,7 +68,7 @@ const News = (props) => {
                     source={element.source}
                   />
                 </div>
-              );
+              )
             })}
           </div>
         </div>
